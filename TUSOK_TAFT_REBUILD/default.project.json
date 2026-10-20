@@ -1,0 +1,11 @@
+{
+  "name": "TUSOK_TAFT_CART",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {"$path": "src/ReplicatedStorage"},
+    "ServerScriptService": {"$path": "src/ServerScriptService"},
+    "StarterPlayer": {
+      "StarterPlayerScripts": {"$path": "src/StarterPlayer/StarterPlayerScripts"}
+    }
+  }
+}
