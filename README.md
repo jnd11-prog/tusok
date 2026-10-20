@@ -103,4 +103,4 @@ This project can show state machines, validation of untrusted network requests, 
 ## Art references included
 
 - `references/USER_MOODBOARD.png`: the exact uploaded reference collage, included so palette and cultural texture stay grounded.
-- `references/VISUAL_TARGET_CONCEPT_NOT_GAMEPLAY.png`: the earlier generated *concept image*. This is **not** a screenshot of this Roblox place and is not automatically used as an in-game texture. It is a target for later mesh/texture production.
+
